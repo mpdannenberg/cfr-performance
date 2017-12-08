@@ -165,5 +165,5 @@ figure(6)
 sdr_map
 
 % figures 7-11
-barplot
+allBoxplots
 
